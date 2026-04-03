@@ -1,0 +1,5 @@
+{
+  "name": "Student Course Management System",
+  "description": "A comprehensive platform for managing students, instructors, courses, sections, and enrollments with a responsive UI and SQL-backed data management.",
+  "requestFramePermissions": []
+}
